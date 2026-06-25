@@ -5,7 +5,7 @@ Vulcan wrapper for termux, from winlator bionic.
 pkg install curl
 ```
 ```sh
-curl -O -L "https://github.com/papa-mux/wrapper-for-termux/blob/main/install.sh"
+curl -L -O "https://github.com/papa-mux/wrapper-for-termux/blob/main/install.sh"
 ```
 
 ```bash
