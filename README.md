@@ -28,7 +28,9 @@ vulkaninfo --summary
 ```
 
 If the output shows a GPU with the name and driver ID as proprietary, then everything is fine. 
-[screenshot](./Screenshot_20260625_221717.jpg)
+<p align="center">
+  <img src="Screenshot_20260625_221717.jpg" width="200">
+</p>
 
 ## Credits
 
