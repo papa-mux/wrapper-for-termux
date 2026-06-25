@@ -11,5 +11,4 @@ curl -O -L "https://github.com/papa-mux/wrapper-for-termux/blob/main/install.sh"
 ```bash
 bash install.sh
 ```
-# Third party applications
-Winlator bionic ([https://github.com/Pipetto-crypto/winlator])
+# Third party applications [winlator bionic](https://github.com/Pipetto-crypto/winlator).
