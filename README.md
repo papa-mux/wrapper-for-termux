@@ -31,4 +31,4 @@ If the output shows a GPU with the name and driver ID as proprietary, then every
 
 ## Credits
 
-- [winlator bionic](https://github.com/Pipetto-crypto/winlator) — for the base wrapper and inspiration.
+- [winlator bionic](https://github.com/Pipetto-crypto/winlator) - for the base wrapper and inspiration.
