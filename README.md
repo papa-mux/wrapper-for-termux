@@ -1,9 +1,14 @@
-# wrapper for termux 
-Vulcan wrapper for termux, from winlator bionic.
-# install
+
+# wrapper for termux
+
+Vulkan wrapper for termux, from winlator bionic.
+
+## Install
+
 ```zsh
 pkg install curl
 ```
+
 ```sh
 curl -O -L "https://raw.githubusercontent.com/papa-mux/wrapper-for-termux/main/install.sh"
 ```
@@ -11,15 +16,19 @@ curl -O -L "https://raw.githubusercontent.com/papa-mux/wrapper-for-termux/main/i
 ```bash
 bash install.sh
 ```
-## Check if it works 
+
+## Check if it works
+
 ```sh
-pkg install vulkan-tool
+pkg install vulkan-tools
 ```
 
 ```fish
 vulkaninfo --summary
 ```
-If the 0GPU says the GPU name and driverid are proprietary, then everything is fine.  
 
-# credits 
-[winlator bionic](https://github.com/Pipetto-crypto/winlator).
+If the output shows a GPU with the name and driver ID as proprietary, then everything is fine. 
+
+## Credits
+
+- [winlator bionic](https://github.com/Pipetto-crypto/winlator) — for the base wrapper and inspiration.
