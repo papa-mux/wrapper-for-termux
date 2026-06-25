@@ -28,6 +28,7 @@ vulkaninfo --summary
 ```
 
 If the output shows a GPU with the name and driver ID as proprietary, then everything is fine. 
+[screenshot](https://github.com/papa-mux/wrapper-for-termux/blob/main/Screenshot_20260625_221717.jpg)
 
 ## Credits
 
