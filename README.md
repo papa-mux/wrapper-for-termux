@@ -12,3 +12,4 @@ curl -O -L "https://github.com/papa-mux/wrapper-for-termux/blob/main/install.sh"
 bash install.sh
 ```
 # Third party applications
+Winlator bionic
