@@ -5,10 +5,6 @@ Vulkan wrapper for termux, from winlator bionic.
 
 ## Install
 
-```zsh
-pkg install curl
-```
-
 ```sh
 curl -O -L "https://raw.githubusercontent.com/papa-mux/wrapper-for-termux/main/install.sh"
 ```
